@@ -1,0 +1,5 @@
+CHANGED,D:\MyApps\SimpleAndroidAS\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\bushi\app\MapActivity$override.class
+CHANGED,D:\MyApps\SimpleAndroidAS\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\bushi\app\UnityPlayerActivity$override.class
+CHANGED,D:\MyApps\SimpleAndroidAS\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\MyApps\SimpleAndroidAS\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\bushi\app\UnityPlayerActivity$1$override.class
+CHANGED,D:\MyApps\SimpleAndroidAS\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\bushi\app\UnityPlayerActivity$2$override.class

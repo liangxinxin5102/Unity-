@@ -1,0 +1,5 @@
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\BoostProject\UnityNetwork\UnityNetwork\bin\Debug\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\UnityNetwork\bin\Debug\UnityNetwork.pdb
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Debug\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Debug\UnityNetwork.pdb

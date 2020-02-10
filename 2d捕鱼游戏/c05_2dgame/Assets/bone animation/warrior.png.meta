@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: a6fe0ac6a68c773408fca38ef8774114
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: warrior_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 105
+        width: 37
+        height: 71
+      alignment: 9
+      pivot: {x: .783156216, y: .0720752105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 162
+        width: 80
+        height: 62
+      alignment: 9
+      pivot: {x: .486903757, y: .119794294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: .729179144, y: .845257521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 54
+        height: 53
+      alignment: 9
+      pivot: {x: .461197168, y: .154068574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: .197337165, y: .801206946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 52
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: .709535241, y: .801207185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: warrior_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: .202685788, y: .801206946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

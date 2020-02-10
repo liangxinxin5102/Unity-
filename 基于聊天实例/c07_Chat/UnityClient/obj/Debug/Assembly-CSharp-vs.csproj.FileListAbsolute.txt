@@ -1,0 +1,12 @@
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\UnityEditor.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\UnityEngine.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\UnityNetwork.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\Mono.Cecil.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\Temp\bin\Debug\nunit.framework.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book_A8Computer\CD\chapter07_Chat\obj\Debug\Assembly-CSharp.dll
+E:\Unity Book_A8Computer\CD\chapter07_Chat\obj\Debug\Assembly-CSharp.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityClient\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache

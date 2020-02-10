@@ -1,0 +1,9 @@
+官方网址 redios.io
+
+wget http://download.redis.io/releases/redis-3.2.3.tar.gz
+tar xzf redis-3.2.3.tar.gz
+cd redis-3.2.3
+
+make
+编译后，运行src文件夹内redis-server即可启动Redis服务器，如下所示：
+src/redis-server redis.conf

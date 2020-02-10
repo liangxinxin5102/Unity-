@@ -1,0 +1,9 @@
+D:\BoostProject\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.pdb
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Release\ResolveAssemblyReference.cache
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.dll
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.dll
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.pdb

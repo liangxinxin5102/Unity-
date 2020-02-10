@@ -1,0 +1,84 @@
+安装可能需要的依赖包：
+yum -y install libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel libxml2 libxml2-devel pcre-devel curl-devel libxslt libxslt-devel
+
+下载php源码
+wget http://cn2.php.net/distributions/php-7.0.9.tar.gz
+
+解压
+tar  -xf  php-7.0.9.tar.gz
+cd php-7.0.9
+./buildconf –force
+
+
+配置php的编译设置：
+./configure --prefix=/usr/local/php \
+ --with-config-file-path=/usr/local/php/etc \
+ --with-apxs2=/usr/local/apache/bin/apxs \
+ --with-curl \
+ --with-freetype-dir \
+ --with-gd \
+ --with-gettext \
+ --with-iconv-dir \
+ --with-kerberos \
+ --with-libdir=lib64 \
+ --with-libxml-dir \
+ --with-mysqli \
+ --with-openssl \
+ --with-pcre-regex \
+ --with-pdo-mysql \
+ --with-pdo-sqlite \
+ --with-pear \
+ --with-png-dir \
+ --with-xmlrpc \
+ --with-xsl \
+ --with-zlib \
+ --enable-fpm \
+ --enable-bcmath \
+ --enable-libxml \
+ --enable-inline-optimization \
+ --enable-gd-native-ttf \
+ --enable-mbregex \
+ --enable-mbstring \
+ --enable-opcache \
+ --enable-pcntl \
+ --enable-shmop \
+ --enable-soap \
+ --enable-sockets \
+ --enable-sysvsem \
+ --enable-xml \
+ --enable-zip
+
+输入make命令编译PHP
+Make
+Make test
+Make install
+
+修改Apache和PHP的配置文件
+将安装目录下的php.ini-production（或php.ini-development）重命名为php.ini。
+
+编辑php.ini:
+找到;extension=php_mysqli.dll和;extension=php_pdo_mysql.dll分别将前面的“;”号去掉启用MySQL扩展，指定默认的mysql.sock，并添加AddHandler，然后保存文件，如下所示：
+
+extension=php_mysqli.dll
+extension=php_pdo_mysql.dll
+mysqli.default_socket = /var/lib/mysql/mysql.sock
+AddHandler application/x-httpd-php .php
+
+
+最后将php.ini上传Linux服务器至/usr/local/php/lib/php/中。
+
+
+修改Apache httpd.conf:
+
+LoadModule php7_module        modules/libphp7.so
+AddHandler application/x-httpd-php .php
+
+# configure the path to php.ini
+PHPIniDir "/usr/local/php/lib/php/"
+<FilesMatch \.php$>
+      SetHandler application/x-httpd-php
+</FilesMatch>
+
+去掉LoadModule speling_module modules/mod_speling.so前面的;号，使其不会区分Uri大小写。
+LoadModule speling_module modules/mod_speling.so
+CheckSpelling on

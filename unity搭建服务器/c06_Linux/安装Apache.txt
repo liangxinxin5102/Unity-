@@ -1,0 +1,39 @@
+Linux Apache源代码下载地址 http://httpd.apache.org/download.cgi
+
+安装C++编译器
+yum install gcc gcc-c++
+
+安装一些依赖包
+安装APR  http://apr.apache.org/download.cgi
+sudo ./configure --prefix=/usr/local/apr
+make
+sudo make install
+
+安装APR-UTIL  http://apr.apache.org/download.cgi
+sudo ./configure -prefix=/usr/local/apr-util --with-apr=/usr/local/apr
+make
+sudo make install
+
+安装Pcre  pcre.org
+sudo ./configure --prefix=/usr/local/pcre
+sudo make
+sudo make install
+
+输入解压命令tar –xf httpd-x.x.x.tar.gz解压Apache安装包，输入命令安装（注意很多依赖软件的路径）：
+sudo ./configure \
+--prefix=/usr/local/apache \
+--with-layout=Apache \
+--enable-modules=most \
+--enable-mods-shared=all \
+--enable-so \
+--with-mpm=prefork \
+--with-apr=/usr/local/apr \
+--with-apr-util=/usr/local/apr-util \
+--with-pcre=/usr/local/pcre
+
+输入下面的命令检查是否有错误，如果返回0则表示没有错误：
+echo $?
+
+安装Apache：
+sudo make
+sudo make install

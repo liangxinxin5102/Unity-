@@ -1,0 +1,7 @@
+D:\BoostProject\UnityNetwork\ChatClient\bin\Release\ChatClient.exe
+D:\BoostProject\UnityNetwork\ChatClient\bin\Release\ChatClient.pdb
+D:\BoostProject\UnityNetwork\ChatClient\bin\Release\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\ChatClient\bin\Release\UnityNetwork.pdb
+D:\BoostProject\UnityNetwork\ChatClient\obj\Release\ResolveAssemblyReference.cache
+D:\BoostProject\UnityNetwork\ChatClient\obj\Release\ChatClient.exe
+D:\BoostProject\UnityNetwork\ChatClient\obj\Release\ChatClient.pdb

@@ -1,0 +1,23 @@
+D:\BoostProject\UnityNetwork\ChatServer\bin\Release\ChatServer.exe
+D:\BoostProject\UnityNetwork\ChatServer\bin\Release\ChatServer.pdb
+D:\BoostProject\UnityNetwork\ChatServer\bin\Release\UnityNetwork.dll
+D:\BoostProject\UnityNetwork\ChatServer\bin\Release\UnityNetwork.pdb
+D:\BoostProject\UnityNetwork\ChatServer\obj\Release\ResolveAssemblyReference.cache
+D:\BoostProject\UnityNetwork\ChatServer\obj\Release\ChatServer.exe
+D:\BoostProject\UnityNetwork\ChatServer\obj\Release\ChatServer.pdb
+E:\Unity Book_A8Computer\CD\chapter07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.exe
+E:\Unity Book_A8Computer\CD\chapter07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.exe
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\bin\Release\ChatServer.exe
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\bin\Release\ChatServer.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\bin\Release\UnityNetwork.dll
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\bin\Release\UnityNetwork.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.exe
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.pdb
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\bin\Release\ChatServer.exe
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\bin\Release\ChatServer.pdb
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\bin\Release\UnityNetwork.dll
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\bin\Release\UnityNetwork.pdb
+D:\SVNWorks\UnityBook3rd\c07_Chat\UnityNetwork\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache

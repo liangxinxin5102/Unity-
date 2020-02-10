@@ -1,0 +1,5 @@
+F:\Unity3D Book 2nd\CD\chapter07_Chat\BasicNetwork\BasicNetwork\SimpleServer\bin\Debug\SimpleServer.exe
+F:\Unity3D Book 2nd\CD\chapter07_Chat\BasicNetwork\BasicNetwork\SimpleServer\bin\Debug\SimpleServer.pdb
+F:\Unity3D Book 2nd\CD\chapter07_Chat\BasicNetwork\BasicNetwork\SimpleServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Unity3D Book 2nd\CD\chapter07_Chat\BasicNetwork\BasicNetwork\SimpleServer\obj\x86\Debug\SimpleServer.exe
+F:\Unity3D Book 2nd\CD\chapter07_Chat\BasicNetwork\BasicNetwork\SimpleServer\obj\x86\Debug\SimpleServer.pdb
